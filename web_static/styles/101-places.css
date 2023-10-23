@@ -91,14 +91,16 @@
     font-size: 16px;
 }
 
-.places .amenities, .places .reviews{
+.places .amenities,
+.places .reviews {
     margin-top: 40px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 }
 
-.places .amenities h2, .places .reviews h2{
+.places .amenities h2,
+.places .reviews h2 {
     width: 100%;
     border-bottom: 1px solid #DDDDDD;
     font-size: 16px;
@@ -107,19 +109,20 @@
     text-align: left;
 }
 
-.places .amenities ul, .places .reviews ul{
+.places .amenities ul,
+.places .reviews ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
 
-.places .amenities ul li{
+.places .amenities ul li {
     display: flex;
     align-items: center;
     gap: 10px;
 }
 
-.amenities .tv .amenity_icon{
+.amenities .tv .amenity_icon {
     background: url('../images/tv.png') no-repeat center center;
     width: 25px;
     height: 25px;
@@ -140,18 +143,18 @@
     background-size: contain;
 }
 
-.places .reviews ul li{
+.places .reviews ul li {
     display: flex;
     flex-direction: column;
 }
 
-.places .reviews ul li h3{
+.places .reviews ul li h3 {
     font-size: 14px;
     margin: 0;
     padding: 0;
 }
 
-.places .reviews ul li h3 p{
+.places .reviews ul li h3 p {
     font-size: 12px;
     padding: 0;
     margin: 0;
