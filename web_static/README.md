@@ -10,7 +10,7 @@ This is a https://airbnb.com static website clone. The deisgn is being implement
 
 ### On Small Screen Devices
 
-![hbnb](./images/hbnb-1.png)
+![hbnb](./images/hbnb-2.png)
 
 ### Technologies
 
